@@ -1,12 +1,12 @@
 import { useEffect, useState } from 'react';
 
 const backgroundImages = [
-  "/public/bg/bg1.jpg",
-  "/public/bg/bg2.png",
-  "/public/bg/bg3.png",
-  "/public/bg/bg4.jpg",
-  "/public/bg/bg5.jpg",
-  "/public/bg/bg6.jpg",
+  "/bg/bg1.jpg",
+  "/bg/bg2.png",
+  "/bg/bg3.png",
+  "/bg/bg4.jpg",
+  "/bg/bg5.jpg",
+  "/bg/bg6.jpg",
 ];
 
 export function BackgroundSlider() {

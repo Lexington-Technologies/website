@@ -7,19 +7,19 @@ const services = [
   {
     title: 'Automation of Processes',
     description: 'At Lexington Technologies, we specialize in automating routine and manual tasks to optimize your work processes. Our team of experienced professionals analyze your existing workflows, identify areas for automation, and develop customized solutions tailored to suit your specific needs.',
-    image: '/public/serv/Automation of Processes.png',
+    image: '/serv/Automation of Processes.png',
     color: 'bg-sky-100',
   },
   {
     title: 'Capacity Building Training',
     description: 'We provide comprehensive training programs designed to enhance your team\'s skills and capabilities. Our expert-led sessions focus on developing technical and strategic competencies to drive organizational growth and innovation.',
-    image: '/public/serv/Capital Building Training.png',
+    image: '/serv/Capital Building Training.png',
     color: 'bg-sky-200',
   },
   {
     title: 'Software Development',
     description: 'With a customer-centric approach, our experienced team ensures that our software development services are fully tailored to address the unique needs and requirements of each client from initial concept to final implementation.',
-    image: '/public/serv/Software Development.png',
+    image: '/serv/Software Development.png',
     color: 'bg-sky-300',
   },
 ];

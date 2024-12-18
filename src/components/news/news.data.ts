@@ -23,7 +23,7 @@ export const newsData: NewsItem[] = [
     excerpt: "Tech Training Session in Dubia.",
     date: "March 15, 2024",
     readTime: "5 min read",
-    image: "/public/news/img18.jpg",
+    image: "/news/img18.jpg",
     category: "News",
     content: [
       {
@@ -34,15 +34,15 @@ export const newsData: NewsItem[] = [
         text: "  Labore sit minus, nulla laborum quisquam vel et? Tempore perferendis deserunt suscipit? Nobis veniam totam ex nihil voluptatem atque nam vel fugiat."
       },
       {
-        image: "/public/news/img16.jpg",
+        image: "/news/img16.jpg",
         imageAlt: "Seniors participating in wellness activities"
       },
       {
-        image: "/public/news/img21.jpg",
+        image: "/news/img21.jpg",
         imageAlt: "Seniors participating in wellness activities"
       },
       {
-        image: "/public/news/img20.jpg",
+        image: "/news/img20.jpg",
         imageAlt: "Seniors participating in wellness activities"
       },
     ]
@@ -53,7 +53,7 @@ export const newsData: NewsItem[] = [
     excerpt: "NABTEB Session Training.",
     date: "March 15, 2024",
     readTime: "5 min read",
-    image: "/public/news/img4.jpg",
+    image: "/news/img4.jpg",
     category: "Programs & Awards",
     content: [
       {
@@ -64,15 +64,15 @@ export const newsData: NewsItem[] = [
         text: "NABTEB Session Training."
       },
       {
-        image: "/public/news/img2.jpg",
+        image: "/news/img2.jpg",
         imageAlt: "Seniors participating in wellness activities"
       },
       {
-        image: "/public/news/img3.jpg",
+        image: "/news/img3.jpg",
         imageAlt: "Seniors participating in wellness activities"
       },
       {
-        image: "/public/news/img5.jpg",
+        image: "/news/img5.jpg",
         imageAlt: "Seniors participating in wellness activities"
       },
     ]
@@ -83,7 +83,7 @@ export const newsData: NewsItem[] = [
     excerpt: "Leadership training for kano state govt.",
     date: "March 10, 2024",
     readTime: "4 min read",
-    image: "/public/news/img8.jpg",
+    image: "/news/img8.jpg",
     category: "News",
     content: [
       {
@@ -97,7 +97,7 @@ export const newsData: NewsItem[] = [
     excerpt: "Semina (body).",
     date: "March 5, 2024",
     readTime: "3 min read",
-    image: "/public/news/img12.jpg",
+    image: "/news/img12.jpg",
     category: "Program",
     content: [
       {
@@ -111,7 +111,7 @@ export const newsData: NewsItem[] = [
     excerpt: "TETFUND Training 2024.",
     date: "March 15, 2024",
     readTime: "5 min read",
-    image: "/public/news/img22.HEIC",
+    image: "/news/img22.HEIC",
     category: "Programs",
     content: [
       {
@@ -122,15 +122,15 @@ export const newsData: NewsItem[] = [
         text: "TETFUND Training 2024."
       },
       {
-        image: "/public/news/img23.HEIC",
+        image: "/news/img23.HEIC",
         imageAlt: "Seniors participating in wellness activities"
       },
       {
-        image: "/public/news/img24.HEIC",
+        image: "/news/img24.HEIC",
         imageAlt: "Seniors participating in wellness activities"
       },
       {
-        image: "/public/news/img25.HEIC",
+        image: "/news/img25.HEIC",
         imageAlt: "Seniors participating in wellness activities"
       },
     ]

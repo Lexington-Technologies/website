@@ -2,7 +2,7 @@ export function Loader() {
   return (
     <div className="fixed inset-0 z-50 flex flex-col cursor-not-allowed items-center justify-center bg-gradient-to-br from-neutral-200 to-neutral-400">
         <img
-          src="/public/logo.png"
+          src="/logo.png"
           alt="Company Logo"
           className="w-[25%] h-2w-[25%] object-contain mb-4 animate-pulse  hover:scale-105 transition-transform duration-300"
         />

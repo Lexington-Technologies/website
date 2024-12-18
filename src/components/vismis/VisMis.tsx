@@ -76,7 +76,7 @@ export function VisMis() {
             <ContentCard
               title="Our Vision"
               description="To lead the way in digital transformation through innovative technologies."
-              imageSrc="/public/eye.png"
+              imageSrc="/eye.png"
               imageAlt="Vision icon"
               className="hover:scale-105 transition-transform duration-300 shadow-lg hover:shadow-2xl"
               />
@@ -96,7 +96,7 @@ export function VisMis() {
             <ContentCard
               title="Our Mission"
               description="To become a global leader in driving the future of technological advancement."
-              imageSrc="/public/target.png"
+              imageSrc="/target.png"
               imageAlt="Mission icon"
               className="hover:scale-105 transition-transform duration-300 shadow-lg hover:shadow-2xl md:translate-y-10"
             />
@@ -116,7 +116,7 @@ export function VisMis() {
             <ContentCard
               title="Our Values"
               description="Embracing creativity to drive groundbreaking solutions."
-              imageSrc="/public/value.png"
+              imageSrc="/value.png"
               imageAlt="Values icon"
               className="hover:scale-105 transition-transform duration-300 shadow-lg hover:shadow-2xl"
             />

@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
 
 const images = [
-  "/public/bg1.jpg",
-  "/public/bg2.2.png",
-  "/public/bg2.png",
-  "/public/bg4.png",
+  "/bg1.jpg",
+  "/bg2.2.png",
+  "/bg2.png",
+  "/bg4.png",
 ];
 
 export function ImageSlider() {

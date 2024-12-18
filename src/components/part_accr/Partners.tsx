@@ -4,16 +4,16 @@ import { motion } from 'framer-motion';
 
 export function Partners() {
   const partners = [
-    { name: 'CMD', image: '/public/accr/CMD.png' },
-    { name: 'CPN', image: '/public/accr/CPN.png' },
-    { name: 'ICDL', image: '/public/accr/ICDL.png' },
-    { name: 'NCA', image: '/public/accr/NCA.png' },
-    { name: 'img', image: '/public/part/NARC.png' },
-    { name: 'NITDA', image: '/public/accr/NITDA.png' },
-    { name: 'ABU', image: '/public/part/ABU.png' },
-    { name: 'AMCON', image: '/public/part/AMCON.png' },
-    { name: 'ATBU', image: '/public/part/ATBU.png' },
-    { name: 'CBN', image: '/public/part/CBN.png' },
+    { name: 'CMD', image: '/accr/CMD.png' },
+    { name: 'CPN', image: '/accr/CPN.png' },
+    { name: 'ICDL', image: '/accr/ICDL.png' },
+    { name: 'NCA', image: '/accr/NCA.png' },
+    { name: 'img', image: '/part/NARC.png' },
+    { name: 'NITDA', image: '/accr/NITDA.png' },
+    { name: 'ABU', image: '/part/ABU.png' },
+    { name: 'AMCON', image: '/part/AMCON.png' },
+    { name: 'ATBU', image: '/part/ATBU.png' },
+    { name: 'CBN', image: '/part/CBN.png' },
   ];
 
   // Double the partners array for seamless looping

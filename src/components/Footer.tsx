@@ -41,7 +41,7 @@ export function Footer() {
           {/* Main Content - Left Side */}
           <div className="lg:col-span-5">
               <img 
-                src="/public/white lexington logo.png" 
+                src="/white lexington logo.png" 
                 alt="Lexington Technologies Logo" 
                 className="max-h-16 mb-6"
               />
