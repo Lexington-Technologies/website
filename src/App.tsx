@@ -7,7 +7,7 @@ import { Loader } from './components/loader/Loader';
 import { Expert } from './components/expert/expert';
 import { MoreEx } from './components/expert/MoreEx';
 import { MoreVis } from './components/vismis/MoreVis';
-import TeamSection from './components/TeamSection';
+// import TeamSection from './components/TeamSection';
 
 // Lazy-loaded components
 const Hero = lazy(() => import('./components/hero/Hero'));
@@ -55,7 +55,7 @@ function App() {
                   <WhyUs />
                   <Expert />
                   <Achievements />
-                  <TeamSection />
+                  {/* <TeamSection /> */}
                   <Services />
                   <Products />
                   <News />
